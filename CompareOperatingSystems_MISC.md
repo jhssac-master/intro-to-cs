@@ -1,7 +1,8 @@
 # Comparison of Operating Systems
 
-Use [Activity 4](https://github.com/ChrisMayfield/cspogil/tree/master/CS0/Act04) to begin a discussion of different operating systems. Compare, contrast, and analyze the following:
-Two Main OS Bases are Unix and MS-DOS
+Use [Activity 4](https://github.com/ChrisMayfield/cspogil/tree/master/CS0/Act04) to begin a discussion of different operating systems. Compare, contrast, and analyze the following types of operating systems
+- 
+The Two Main OS Bases are Unix and MS/DOS
  - Unix (made for Multi-User Systems)
    - MacOS
    - Linux
